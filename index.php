@@ -46,6 +46,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<nav id="nav">
 						<ul>
 							<li>
+								<a href="https://www.tudexnetworks.com/blog/">Blog</a>
+							</li>
+							<li>
 								<a href="#">Tudex Games</a>
 								<ul>
 									<li><a href="https://WWW.tudexgames.com/">Tudexgames.com</a></li>
