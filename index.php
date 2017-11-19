@@ -111,8 +111,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<p>¿No sabes que juegos jugar? Tudex Games te recomendara de manera aleatoria algunos de los mejores juegos, tanto clásicos, nuevos y grandes títulos también los juegos que no conocías te esperan en este proyecto de Tudex Networks para que nunca dejes tu pación de jugar!</p>
 								</div>
 								<div class="4u$ 12u$(medium)">
-									<p>Si eres desarrollador puedes seguir el proyecto en el <a href="https://github.com/Aleavellaneda1/TudexGames">repositorio oficial de Github</a></p>						
+									<p>Si eres desarrollador puedes seguir el proyecto en el <a href="https://github.com//TudexNetworks">repositorio oficial de Github</a></p>						
 								</div>
+								<ul class="actions">
+							<li><a href="https://www.tudexgames.com/" class="button">Visitar Tudex Games</a></li>
+						</ul>
 							</div>
 						</div>
 					</div>
@@ -146,7 +149,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</header>
 						<p>Revistaterere.com es un portal donde replicamos el contenido abierto generado por la comunidad, dando a conocer tus ideas libres!</p>
 						<ul class="actions">
-							<li><a href="#" class="button">Visitar Revistaterere.com</a></li>
+							<li><a href="https://www.revistaterere.com" class="button">Visitar Revistaterere.com</a></li>
 						</ul>
 					</div>
 					<a href="#five" class="goto-next scrolly">Next</a>
