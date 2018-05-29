@@ -155,7 +155,7 @@
 		transition: opacity 2s ease-in-out;
 		height: 100%;
 		left: 0;
-		opacity: 0.25;
+		opacity: 0.5;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -1013,9 +1013,9 @@
 		font-size: 3.25em;
 		margin: 0 0 0.55em 0;
 	}
-
+		
 	#header p {
-		font-size: 1.35em;
+		font-size: 6em;
 		line-height: 1.65em;
 	}
 
@@ -1028,21 +1028,28 @@
 		#header h1 {
 			font-size: 2em;
 		}
-
-		#header p {
-			font-size: 1em;
+		.logo-tudex{
+			width: 400px;
 		}
 
+		#header p {
+			font-size: 4em;
+			line-height: 1.65em;
+		}
 	}
 
 	@media screen and (max-width: 480px) {
-
+		.logo-tudex{
+   			width: 300px;
+		}
+		#header p {
+			font-size: 2em;
+			line-height: 1.65em;
+		}
 		#header {
 			margin: 0 0 1em 0;
 		}
-
 	}
-
 /* Signup Form */
 
 	#signup-form {
@@ -1053,7 +1060,7 @@
 		position: relative;
 	}
 
-		#signup-form input[type="text"],
+	#signup-form input[type="text"],
 		#signup-form input[type="password"],
 		#signup-form input[type="email"] {
 			width: 18em;
